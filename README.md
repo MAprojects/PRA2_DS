@@ -15,7 +15,7 @@ Mohamed Azar , mohamed.azar096@gmail.com
 
 ## Dataset
 Puede consultar  el dataset en la siguiente dirección:
-https://github.com//MAprojects/PRA2_DS/data/titanic_out.csv
+https://github.com//MAprojects/PRA2_DS/titanic_out.csv
 
 ## Licencia
 
